@@ -1,20 +1,17 @@
-:
+👩‍💻 About Me
+Hi there! I'm Sara Nagahara, a passionate Full Stack development student. I'm currently pursuing a degree in Internet Systems 🎓 and always looking for new challenges and opportunities to grow in the world of programming.
 
-👩‍💻 Sobre mim
-Olá! Eu sou Sara Nagahara, uma estudante apaixonada por tecnologia e desenvolvimento Full Stack. Atualmente estou cursando Sistemas para Internet 🎓, sempre em busca de novos desafios e aprendizados no mundo da programação.
+💡 I have experience with the following technologies:
 
-💡 Tenho conhecimento nas seguintes tecnologias:
+⚡ JavaScript (my favorite language!)
 
-⚡ JavaScript (minha linguagem favorita!)
-
-🌐 HTML e CSS
+🌐 HTML and CSS
 
 🐘 PHP
 
-⚛️ React com TypeScript
+⚛️ React with TypeScript
 
-🤖 Curso de Inteligência Artificial
+🤖 Completed a course in Artificial Intelligence
 
-Sou dedicada, curiosa e adoro transformar ideias em projetos reais. Sempre buscando evoluir como desenvolvedora e contribuir com a comunidade tech. 🚀
-
+I'm dedicated, curious, and love turning ideas into real projects. Always striving to improve as a developer and contribute to the tech community. 🚀
 
