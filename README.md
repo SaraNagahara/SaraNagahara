@@ -14,10 +14,10 @@
 ### 🤖 Completed a course in Artificial Intelligence
 
 ### 🛠️ Computer Hardware
-## I took a course in computer hardware, learning how to build, upgrade, and fix PCs.
+I took a course in computer hardware, learning how to build, upgrade, and fix PCs.
 
 ### 🗄️ SQL Databases
-## I have experience using SQL to create and manage databases, write queries, and work with structured data.
+ I have experience using SQL to create and manage databases, write queries, and work with structured data.
 
 I'm dedicated, curious, and love turning ideas into real projects. Always striving to improve as a developer and contribute to the tech community. 🚀
 
