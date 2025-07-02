@@ -6,17 +6,18 @@
 
 ### ⚡ JavaScript (my favorite language!)
 
+### ⚛️ React with TypeScript
+
 ### 🌐 HTML and CSS
 
 ### 🐘 PHP
 
-### ⚛️ React with TypeScript
+### 🗄️ SQL Databases
 
 ### 🤖 Completed a course in Artificial Intelligence
 
 ### 🛠️ Computer Hardware
 
-### 🗄️ SQL Databases
 
 I'm dedicated, curious, and love turning ideas into real projects. Always striving to improve as a developer and contribute to the tech community. 🚀
 
